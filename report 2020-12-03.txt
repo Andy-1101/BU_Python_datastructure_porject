@@ -1,0 +1,19 @@
+name: Andy
+age: 35
+gender: Male
+weight: 79
+height: 5'9'
+date: 2020-12-03
+
+The protein goal for the day: 260.7g  The actual protein consumption this day: 72.0g
+The carbohydrate goal for the day: 474.0g  The actual protein consumption this day: 5.2g
+Vegetation recommanded for the day: 300g to 500g, The actual vegetation consumption: 300.0g
+
+you need 188.7g more for protein
+you need 468.8g more for carbohydrate
+your vegetation consumption is in a reasonable range, good job!
+
+  protein    target: ++++++++++++++++++++++++++
+  protein     eaten: +++++++
+carbohydrate target: +++++++++++++++++++++++++++++++++++++++++++++++
+carbohydrate  eaten: 

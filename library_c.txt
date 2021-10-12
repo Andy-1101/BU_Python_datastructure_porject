@@ -1,0 +1,4 @@
+<chicken:3.6
+<lamb:3.5
+<protein prowder:3.6
+<beef:0.2
